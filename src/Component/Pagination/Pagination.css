@@ -1,0 +1,13 @@
+.roundeds {
+    border-radius: 80px;
+    background: rgb(201, 200, 200);
+    height: 20px;
+    font-size: 20px;
+    padding: 7px 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.roundeds:hover {
+    background: white;
+}

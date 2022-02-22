@@ -1,0 +1,16 @@
+.cross {
+    background: white;
+    border-radius: 200px;
+    height: 60px;
+    width: 60px;
+    box-shadow: 1px 1px 6px 1px rgb(204, 187, 187);
+    cursor: pointer;
+}
+.bb{
+    border: 10px solid gray;
+    background: white;
+    border-radius: 20px;
+
+}
+
+

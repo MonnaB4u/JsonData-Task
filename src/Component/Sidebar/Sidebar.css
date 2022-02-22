@@ -1,0 +1,48 @@
+.sideHead {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.containerrrr {
+    height: 100%;
+    border-collapse: collapse;
+}
+
+.sticy {
+    position: static;
+}
+
+/* svg.bi {
+    height: 8px !important;
+    width: 8px !important;
+} */
+
+.iconss:hover {
+     background: rgb(131, 236, 213);
+    cursor: pointer;
+}
+
+.wbtn{
+    background:  rgb(131, 236, 213);
+    cursor: pointer;
+    padding: 7px 0px;
+    border:none;
+    font-weight: bold;
+    display: block;
+}
+.bg-box{
+    background: white;
+    border-radius:   0px 30px 30px 0px;
+    box-shadow: 1px 1px 6px 1px rgb(204, 187, 187);
+}
+.bg-card{
+    box-shadow: 1px 1px 10px 0px rgb(204, 187, 187);
+    background: white;
+}
+
+.bg-box2{
+    background: white;
+    /* border-radius:   0px 30px 30px 0px; */
+    box-shadow: 4px 0px 6px 1px rgb(204, 187, 187);
+}
